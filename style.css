@@ -1,0 +1,33 @@
+.mat-card {
+    border-radius: 32px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: rgb(54, 180, 211);
+    
+}
+.mat-nav {
+    border-radius: 22px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: rgb(54, 180, 211);
+    
+}
+
+.mat-section {
+    border-radius: 22px;
+    margin: 10px 10px;
+    padding: 20px;
+    border-color: rgb(54, 180, 211);
+    border-style: solid;
+    
+}
+
+.jumbotron {
+    background-image: url(Ing_sistemas.webp);
+    
+    background-position:center;
+    height:500px;
+    background-size: 100%;
+    z-index: -1;
+    
+}
